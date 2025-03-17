@@ -1,0 +1,26 @@
+{
+  "name": "charlietheme",
+  "displayName": "CharlieTheme",
+  "description": "VSCode Theme for Charlie",
+  "version": "1.0.0",
+  "publisher": "Sh4rkByte",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "y",
+        "uiTheme": "vs-dark",
+        "path": "./themes/y-color-theme.json"
+      }
+    ]
+  }
+}
