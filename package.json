@@ -17,9 +17,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "y",
+        "label": ":3",
         "uiTheme": "vs-dark",
-        "path": "./themes/y-color-theme.json"
+        "path": "./themes/colon-three-color-theme.json"
       }
     ]
   }
